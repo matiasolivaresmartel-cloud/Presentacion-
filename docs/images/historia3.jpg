@@ -1,0 +1,393 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Revista Chilena - Caballo Chileno</title>
+<meta name="generator" content="WYSIWYG Web Builder 14 - http://www.wysiwygwebbuilder.com">
+<link href="Estrella-000.jpg" rel="shortcut icon" type="image/x-icon">
+<link href="Estrella-000.jpg" rel="apple-touch-icon" sizes="489x464">
+<link href="REVISTACHILENA_1.css" rel="stylesheet">
+<link href="Caballo_Chileno.css" rel="stylesheet">
+<script src="jquery-1.12.4.min.js"></script>
+<script src="wb.stickylayer.min.js"></script>
+<script src="searchindex.js"></script>
+<script src="wb.sitesearch.min.js"></script>
+<script>
+var features = 'toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes,status=no,left=,top=,width=,height=';
+function searchPage(features)
+{
+   var element = document.getElementById('indexSiteSearch7');
+   window.open('indexsitesearch7-results.html?q='+encodeURIComponent(element.value), '', features);
+   return false;
+}
+</script>
+<link rel="stylesheet" href="magnificpopup/magnific-popup.css">
+<script src="magnificpopup/jquery.magnific-popup.min.js"></script>
+<script>
+$(document).ready(function()
+{
+   searchParseURL('indexSiteSearch7');
+   $("a[data-rel='FPhotoGallery1']").attr('rel', 'FPhotoGallery1');
+   $("#FPhotoGallery1").magnificPopup({delegate:'a', type:'image', gallery: {enabled: true, navigateByImgClick: true}});
+   $("a[data-rel='PhotoGallery1']").attr('rel', 'PhotoGallery1');
+   $("#PhotoGallery1").magnificPopup({delegate:'a', type:'image', gallery: {enabled: true, navigateByImgClick: true}});
+   $("a[data-rel='PhotoGallery2']").attr('rel', 'PhotoGallery2');
+   $("#PhotoGallery2").magnificPopup({delegate:'a', type:'image', gallery: {enabled: true, navigateByImgClick: true}});
+   $("a[data-rel='PhotoGallery3']").attr('rel', 'PhotoGallery3');
+   $("#PhotoGallery3").magnificPopup({delegate:'a', type:'image', gallery: {enabled: true, navigateByImgClick: true}});
+   $("#Layer1").stickylayer({orientation: 3, position: [50, 50], delay: 500});
+   $("a[href*='#Inicio']").click(function(event)
+   {
+      event.preventDefault();
+      $('html, body').stop().animate({ scrollTop: $('#wb_Inicio').offset().top }, 600, 'linear');
+   });
+});
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123402850-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123402850-1');
+</script>
+
+</head>
+<body>
+<div id="wb_Plantilla_2Shape1" style="position:absolute;left:0px;top:0px;width:1700px;height:159px;z-index:2;">
+<img src="images/img1522.png" id="Plantilla_2Shape1" alt="" style="width:1700px;height:159px;"></div>
+<div id="wb_Plantilla_2Shape2" style="position:absolute;left:0px;top:155px;width:1700px;height:28px;z-index:3;">
+<img src="images/img1524.png" id="Plantilla_2Shape2" alt="" style="width:1700px;height:28px;"></div>
+<div id="wb_Plantilla_2Shape3" style="position:absolute;left:0px;top:180px;width:1700px;height:28px;z-index:4;">
+<img src="images/img2023.png" id="Plantilla_2Shape3" alt="" style="width:1700px;height:28px;"></div>
+<picture id="wb_Plantilla_2Picture1" style="position:absolute;left:20px;top:5px;width:244px;height:142px;z-index:5">
+<img src="images/chileflag.jpg" id="Plantilla_2Picture1" alt="" srcset="">
+</picture>
+<picture id="wb_Plantilla_1Picture1" style="position:absolute;left:1435px;top:7px;width:246px;height:140px;z-index:6">
+<img src="images/chileflag.jpg" id="Plantilla_1Picture1" alt="" srcset="">
+</picture>
+<div id="wb_indexImage2" style="position:absolute;left:20px;top:4px;width:246px;height:147px;z-index:7;">
+<img src="images/PatallaNube014.gif" id="indexImage2" alt=""></div>
+<div id="wb_indexImage1" style="position:absolute;left:1435px;top:4px;width:246px;height:147px;z-index:8;">
+<img src="images/PatallaNube014.gif" id="indexImage1" alt=""></div>
+<div id="wb_indexText4" style="position:absolute;left:423px;top:28px;width:918px;height:105px;text-align:center;z-index:9;">
+<span style="color:#FFFFFF;font-family:'Brush Script MT';font-size:85px;">Revista Chilena.com</span></div>
+<div id="wb_indexJavaScript14" style="position:absolute;left:1242px;top:124px;width:180px;height:21px;z-index:10;">
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) 
+{
+   var js, fjs = d.getElementsByTagName(s)[0];
+   if (d.getElementById(id)) return;
+   js = d.createElement(s); 
+   js.id = id;
+   js.src = "https://connect.facebook.net/en_US/all.js#xfbml=1";
+   fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="fb-like" data-href="http://www.facebook.com/seleccionlaroja/" data-send="true" data-layout="button_count" data-width="180" data-height="21" data-show-faces="true" data-action="like" data-colorscheme="light" data-font="arial"></div>
+
+</div>
+<div id="wb_indexJavaScript13" style="position:absolute;left:25px;top:158px;width:694px;height:19px;z-index:11;">
+<div style="color:#000000;font-size:14px;font-family:Bahnschrift SemiLight;font-weight:bold;font-style:normal;text-align:left;text-decoration:none" id="randomquote"></div>
+<script>
+var quoteCount = 0;
+var quotes = new Array ();
+quotes[0] = "Estoy en desacuerdo con tus ideas, pero daría mi vida por defenderlas (Voltaire)";
+quotes[1] = "Opine con alturas, demuestre su educación.";
+quotes[2] = "Para Opinar usted primero se debe Informar.";
+quotes[3] = "La Opinión es solo para quienes se Informan y Piensan";
+quotes[4] = "El Futuro depende solo de usted. Decida bien informado.";
+quotes[5] = "La Decisión es suya pero no se engañe, infómese.";
+quotes[6] = "Leer es de sabios, el sabio no se equivoca.";
+quotes[7] = "Leer, leer y leer para no perder.";
+quotes[8] = "Respeto es el entendimiento entre personas educadas.  ";
+quotes[9] = "Los Valores son los que hace grande a las personas de bien.";
+for (i=0; i<quotes.length; i++)
+{
+   if (quotes[i] == "")
+      break;
+   quoteCount++;  
+}
+var randomquote = document.getElementById('randomquote');
+randomquote.innerHTML = quotes[Math.floor(quoteCount * Math.random())];
+</script>
+</div>
+<input type="button" id="indexButton7" onclick="searchPage();return false;" name="Búsqueda" value="Búsqueda" style="position:absolute;left:1153px;top:157px;width:96px;height:21px;z-index:12;">
+<form name="indexSiteSearch7_form" id="indexSiteSearch7_form" role="search" accept-charset="UTF-8" onsubmit="return searchPage(features)">
+<input type="text" id="indexSiteSearch7" style="position:absolute;left:1254px;top:157px;width:421px;height:18px;z-index:13;" name="SiteSearch1" value="" spellcheck="false" placeholder="Search this website" role="searchbox"></form>
+<div id="wb_PruebasJavaScript2" style="position:absolute;left:651px;top:186px;width:201px;height:20px;z-index:14;">
+<div style="color:#FFFFFF;font-size:14px;font-family:Bahnschrift SemiLight;font-weight:bold;font-style:normal;text-align:left;text-decoration:none" id="basicdate"></div>
+<script>
+   var now = new Date();
+   var days = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday');
+   var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
+   var date = ((now.getDate() < 10) ? "0" : "") + now.getDate();
+   var year = (now.getYear() < 1000) ? now.getYear() + 1900 : now.getYear();
+   today = days[now.getDay()] + ", " + months[now.getMonth()] + " " + date + ", " + year;
+   var basicdate = document.getElementById('basicdate');
+   basicdate.innerHTML = today;
+</script>
+
+
+</div>
+<div id="wb_PruebasJavaScript1" style="position:absolute;left:895px;top:186px;width:128px;height:22px;z-index:15;">
+<div style="color:#FFFFFF;font-size:14px;font-family:Bahnschrift SemiLight;font-weight:bold;font-style:normal;text-align:left;text-decoration:none" id="basicclock"></div>
+<script>
+function clock() 
+{
+   var digital = new Date();
+   var hours = digital.getHours();
+   var minutes = digital.getMinutes();
+   var seconds = digital.getSeconds();
+   if (minutes <= 9) minutes = "0" + minutes;
+   if (seconds <= 9) seconds = "0" + seconds;
+   dispTime = hours + ":" + minutes + ":" + seconds;
+
+   var basicclock = document.getElementById('basicclock');
+   basicclock.innerHTML = dispTime;
+   setTimeout("clock()", 1000);
+}
+clock();
+</script>
+
+</div>
+<div id="wb_Plantilla_1Text1" style="position:absolute;left:400px;top:270px;width:659px;height:12510px;text-align:justify;z-index:16;">
+<span style="color:#000000;font-family:'Bahnschrift Light';font-size:8px;line-height:10px;"><br><br><br><br><br><br><br><br><br><br><br><br><br><br></span><span style="color:#0000FF;font-family:Bahnschrift;font-size:8px;line-height:84px;"><strong> </strong></span><span style="color:#0000FF;font-family:Bahnschrift;font-size:27px;line-height:84px;"><strong>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </strong></span><h1>Caballo Chileno Corralero</h1><span style="color:#0000FF;font-family:Bahnschrift;font-size:27px;line-height:23px;"><strong><br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:Bahnschrift;font-size:19px;line-height:25px;"><br></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><br><br><br><br>Es una <strong>raza de caballo</strong> de crianza determinado por un acuerdo de siglos.<br><br>El auge que tuvo la crianza, tenencia y práctica de deportes ecuestres como: la rienda, el rodeo y los paseos.<br><br><br></span><h2>Criaderos<br></h2><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Hay <strong>criaderos y clubes federados</strong> funcionando en todo el país y por alto valor se ha sumado una asociación de criadores de <strong>caballos chilenos</strong> en <strong>Brasil</strong> funcionalidad para la rienda y otros deportes, siendo los primeros lugares en competencias como el <strong>Freno de Oro </strong>para caballos chilenos o descendientes de chilenos.<br><br><br></span><h2>Características<br></h2><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Presenta una <strong>musculatura </strong>especializada para la velocidad en tramos cortos y una adaptación para una vida en áreas montañosas. <br><br>Sus cascos son fuertes y su doble capa de pelo, larga en invierno y corta y lustrosa en verano, lo hace muy adaptable tanto a climas fríos como a cálidos y secos. <br><br>Es utilizado para diversas actividades ganaderas como para arrear ganado. <br><br>Debido a su mediana alzada es especial para la práctica del rodeo chileno.<br>Durante el primer gobierno del presidente Sebastián Piñera Echenique fue declarado monumento natural chileno.<br><br><br><br></span><h2>Historia<br></h2><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:42px;"><br></span><h3>Caballos Españoles y Africanos<br></h3><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Un parecido que tiene el caballo chileno al africano del tipo bereber, de la región (Al magreb) de donde proviene Almagro.<br><br>Es distinto del denominado caballo árabe ya que hasta el inicio de la colonización en <strong>1492,</strong> <strong>España</strong> estuvo invadida por <strong>moros o musulmanes</strong> y se produjo una mezcla entre caballos árabes, africanos y españoles, dando como resultado un tipo de caballo característico.<br><br></span><h3>Primeros Caballos en América<br></h3><span class="CustomStyle">El </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>23 de mayo de 1493</strong></span><span class="CustomStyle">, los </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>Reyes Católicos</strong></span><span class="CustomStyle"> ordenaron el envío al </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>Nuevo Mundo</strong></span><span class="CustomStyle"> de </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>20 caballos y 5 yeguas</strong></span><span class="CustomStyle"> escogidos en el </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>reino de Granada </strong></span><span class="CustomStyle">y que llegaron en el </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>segundo viaje de Cristóbal Colón.</strong></span><span class="CustomStyle"><br><br>Llegaron a la </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>Isla Española</strong></span><span class="CustomStyle"> donde se multiplicaron en gran número en </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>Jamaica</strong></span><span class="CustomStyle"> y </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>México,</strong></span><span class="CustomStyle"> para que los conquistadores pudieran realizar sus expediciones al interior del continente americano. <br><br>Estos </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>caballos</strong></span><span class="CustomStyle"> eran de raza española y eran principalmente de tres tipos: <br>el caballo andaluz de la época<br>el caballo español de Castilla y <br>el caballo tipo jaca y rocín.<br><br><br></span><h3>Primeros Caballos en Chile<br></h3><span class="CustomStyle">Cabe señalar, que los nativos no conocían este tipo de animal y pensaron que </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>caballo</strong> y<strong> jinete</strong></span><span class="CustomStyle"> eran una sola persona, como un </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>“centauro”,</strong></span><span class="CustomStyle"> sintiendo la superioridad del nuevo ser que llegaba.<br><br>El </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>caballo </strong></span><span class="CustomStyle">llegó a </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>Chile </strong></span><span class="CustomStyle">con el explorador </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>Diego de Almagro</strong></span><span class="CustomStyle"> pero este volvió al </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>Perú</strong></span><span class="CustomStyle"> con ellos.<br><br>El establecimiento original de este equino se remonta a </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>1540,</strong></span><span class="CustomStyle"> con el conquistador </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>Pedro de Valdivia</strong></span><span class="CustomStyle"> quien lo introdujo desde el </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>Virreinato del Perú </strong></span><span class="CustomStyle">en su expedición.<br><br>Los </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>primeros 75 ejemplares,</strong></span><span class="CustomStyle"> entre potros y yeguas, con los que cruzó el </span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>desierto de Atacama.<br></strong></span><span class="CustomStyle"><br><br></span><h3>Nuevos Caballos más.<br></h3><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Tres años más tarde, en <strong>1543</strong>, don <strong>Alonso de Monroy</strong> llevó <strong>70</strong> animales más los que se incrementaron con cuatro remesas desde el Cuzco (Perú).<br><br>En menos de siete años la población superó los 500 equinos que fue reforzada y mejorada con la inclusión de <strong>42 reproductores</strong> escogidos de propiedad del gobernador <strong>García Hurtado de Mendoza.</strong> <br><br>Estos animales eran de pequeña alzada, pero su descendencia se mezcló con animales de mayor tamaño y con el transcurso de los años esta población relativamente aislada conformó una nueva raza.<br><br></span><h3>Primer Criadero de Caballos<br></h3><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">En <strong>1544</strong> el caballo se consolida con el primer criadero a cargo del sacerdote <strong>Rodrigo González Marmolejo,</strong> en los sectores de <strong>Melipilla</strong> y <strong>Quillota.</strong> <br><br><br></span><h3>Incorporación del Caballo por los Mapuches<br></h3><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Dijimos que el caballo no era un ser conocido por los aborígenes que pensaron que jinete y caballo era un mismo ser.<br><br>Al otro lado de la cordillera, los <strong>Mapuches y Tehuelches</strong> que habitan aun en la <strong>Argentina</strong> lo incorporaron tempranamente a su cultura y por el año <strong>1550,</strong> 10 años después de la llegada de <strong>Valdivia,</strong> los guerreros <strong>mapuches</strong> incorporaron a sus milicias por iniciativa del líder <strong>Lautaro.<br></strong><br>Pronto <strong>los Mapuches</strong>&nbsp; se convirtieron en los jinetes más valientes y expertos, llegando a superar a los conquistadores españoles.<br><br></span><h3>Época de la Colonia<br></h3><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><strong>El caballo continuó su crecimiento en la Colonia, identificándose tres territorios de desarrollo del caballo: <br><br></strong></span><h3>La Zona Central<br></h3><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Considerada entre los ríos <strong>Copiapó y Biobío</strong>, eminentemente agrícola y ganadera, donde los caballos estaban destinados a las labores campesinas, al transporte a excepción en la zona de frontera de guerra.<br>Es aquí, en esta zona, es de donde procede la raza conocida como <strong>“Caballo Chileno”</strong>, producida por la cruza de los <strong>caballos españoles</strong> con otras razas de <strong>mayor alzada</strong>.<br><strong><br></strong></span><h3>Zona Sur<br></h3><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Región desde el <strong>Biobío</strong> a <strong>Los Llanos de Osorno</strong>, crecientemente ganadera y <strong>bajo control mapuche.<br>Sus caballos provenían </strong>desde las <strong>pampas</strong> y la <strong>Patagonia,</strong> servían de montura, también de alimento y <strong>malones</strong> desde el lado de los Andes.&nbsp; <br>Fueron usados en la <strong>guerra de Arauco</strong> <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Zona de Chiloé<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">En esta zona agrícola y ganadera, los caballos fueron introducidos por los refugiados que huyeron de la destrucción de Osorno.<br>Esta población se mantuvo aislada y no se cruzaron otras razas manteniendo su pequeña alzada, terminando por formar la raza conocida como <strong>caballo chilote.</strong><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Auge del Caballo<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">El caballo fue aumentando y luego decreciendo con los ataques a las manadas de los españoles y hacendados por parte de los <strong>patriotas</strong> en la <strong>Guerra de la Independencia.</strong>&nbsp; <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Raza Cuevana<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Por más de un siglo y medio, a fines del siglo XVIII y principios del siglo XIX, el criadero que don <strong>Pedro de las Cuevas y Guzmán</strong> tuvo en su hacienda <strong>«El Parral de Doñihue»</strong>, un criadrero donde surgió con fuerza la&nbsp; <strong>«Raza Cuevana»</strong>, convirtiéndose en referente nacional y continental y es la que originó los más importantes criaderos de fines del siglo XIX en la zona central de Chile.<br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Conformación de la Raza chilena<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">En <strong>1820</strong> el <strong>Caballo Chileno</strong> comenzó a perfilarse con tres tipos definidos por sus usos: <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>El Caballo de lujo o de paseo <br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">constituido por ejemplares de contextura gruesa y corpulenta algo así al percherón.<br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>El Caballo de paso o viajero <br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Un caballo de pechos algo más angostos, cruz baja y muy andador y <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>El Caballo de marcha o trote <br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Utilizado para faenas agrícolas y por el Ejército.<br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Registro genealógico<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">En <strong>1893</strong>, un grupo de criadores encabezado por don <strong>Raimundo Valdés</strong> preocupados por mejorar la raza, ya sea por moda o por requerimientos de altura para el <strong>Ejército</strong> y otras aplicaciones.<br><br>Se gestionó la apertura de un registro de raza pura, inaugurándose oficialmente el <strong>“Registro del caballo chileno”</strong>, idea de formalización de las razas caballares no existía en <strong>América.</strong><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Registro más antiguo<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Esto convirtió al <strong>caballo chileno</strong> en la raza con <strong>registro más antiguo</strong> en <strong>América</strong>, y el tercero más antiguo del hemisferio occidental.&nbsp; <br>Entre <strong>1893</strong> y <strong>1900,</strong> se logró inscribir <strong>262</strong> ejemplares.<br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Reconocimiento<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Es destacable que el criador argentino <strong>Carlos R. Dowdall</strong> haya descrito en su libro <strong>Criollo,</strong> que el caballo del país (referido a <strong>Argentina</strong>) que, siguiendo <strong>el ejemplo de los chilenos</strong>, tomó la descripción del <strong>sello de raza</strong> del <strong>caballo chileno</strong> y lo transcribió igual para <strong>el criollo argentino</strong>, que se vio muy afectada por el mestizaje como en el resto de América.<br><br><strong>Chile,</strong> por su aislamiento geográfico y por la visión de sus criadores, pudo mantener el caballo chileno sin el nivel de mestizaje que se produjo en el resto de <strong>América</strong>.<br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Primera Asociación de Caballares<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">En <strong>1946</strong> se fundó la <strong>Asociación de Criadores Caballares</strong>, actual <strong>Federación de Criadores de Caballos Raza Chilena</strong>, su primer presidente fue don <strong>Alberto Echenique Domínguez.</strong><br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Motor y Maquinarias<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Esta raza fue empleada para trabajos agrícolas y ganaderos, <br>sin embargo, a finales del <strong>siglo XIX</strong> se produjo el reemplazo del motor animal por el motor a vapor, luego de combustión, la mecanización y automatización de la agricultura.<br><br>Además, la disminución del tamaño de las propiedades agrícolas, la introducción de máquinas como las trilladoras, dejaron obsoletas las trillas con tropillas de yeguas que desgranaban las espigas de trigo, el que luego se venteaba para separar el grano de la paja, yeguas que eran la base de yeguas madres de esta raza. <br><br>Los ferrocarriles y automóviles sustituyeron al caballo y las razas especializadas en tiro de carruaje o carretas, que por moda, mermaron la importancia del caballo chileno.<br><br><br></span><h2>Crece el Rodeo<br></h2><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Sin embargo, las <strong>pruebas de rienda</strong> y <strong>las carreras a la chilena</strong> en esos tiempos crecían en popularidad y mejoraban su organización.<br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:42px;"><strong><br></strong></span><h3>En el Rodeo solo participan Caballos Chilenos Auténticos <br></h3><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">El Rodeo siempre tuvo como regla la participación solo caballos de auténtica raza chilena,&nbsp; porque sus características morfológicas, funcionales y morales son las más aptas para la práctica de este deporte y para la estandarización y equidad de este deporte.<br> <br>Este hecho significó que la gente que practicaba este deporte criara exclusivamente caballos chilenos y así se fue recuperando la raza hasta consolidarse como tal.<br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Raza Americana<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Hasta <strong>2002</strong> esta raza de caballos era conocida como «caballo chileno»; sin embargo, ese año se unió con las razas vaqueras de países vecinos, pero estos registros de <strong>caballos chilenos</strong> nunca llegaron a abrirse.<br><br>El <strong>2011</strong> se acordó por los criadores mantener cerrados dichos registros, ante lo cual la <strong>Federación Internacional de Criadores de Caballos Criollos</strong> (<strong>FICCC</strong>) cerró sus registros de criollos para nuevas incorporaciones de caballos chilenos.&nbsp; <br><br>Lo mismo para <strong>Argentina y Uruguay,</strong> donde potros como <strong>El Escudo Duende</strong>, del prestigioso <strong>Miguel Balic</strong>, se desempeñaron exitosamente en <strong>rienda, paleteadas y rodeo</strong> y muy apreciado entre los criadores <strong>argentinos.</strong> <br><br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Premiaciones<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">En reiteradas oportunidades los campeones del <strong>Freno de Oro</strong>, máxima competencia de los criollos de Brasil, han sido <strong>caballos chilenos puros.</strong><br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Decreto Supremo<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Por decreto supremo esta <strong>raza de caballos</strong> quedó a cargo de la <strong>Federación Criadores de Caballos Raza Chilena,</strong>&nbsp; siendo la <strong>SNA</strong> (<strong>Sociedad Nacional de Agricultura</strong>) el ente registrador principal.<br><br>El objetivo de esta federación es reglamentar, difundir y mantener pura la crianza de la raza de caballos chilenos.&nbsp; <br><br>Desde el <strong>26 de abril de 2011,</strong> el caballo chileno es considerado <strong>monumento natural de Chile,</strong>&nbsp; mediante decreto supremo firmado por el presidente <strong>Sebastián Piñera.</strong> <br><br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Caballo Chileno Corralero<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Alzada (Tamaño)<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">La <strong>alzada</strong> del <strong>caballo chileno</strong> es <strong>mediana,</strong> de 1.42 mts.,&nbsp; esto ayuda a que en la atajada de un novillo lo haga con el pecho y no con las manos, lo que resultaría peligroso. <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>La Cabeza y cara<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:27px;">La cabeza es «<strong>acarnerada</strong>», muy parecido al <strong>caballo andaluz</strong>.<br>El perfil curvo, comienza desde la base de la frente en la línea que une ambos ejes.<br>La frente plana. <br>Las orejas son pequeñas a medianas y móviles.<br>Ollares (orificio de las narices) dilatados.<br>Ojos vivos y ligeramente cubiertos por la arcada orbital. <br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Cuello<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">El cuello es corto y grueso, fuertemente insertado en la paleta. <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Crines (Pelos)<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Las <strong>crines,</strong> tanto en la <strong>cola</strong> como en la <strong>tusa, moño y gatillo</strong>, son abundantes, gruesas y ondeadas.<br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Cascos o Pezuñas<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Son chicos, cerrados en los talones y por lo general de color negro, por selección, ya que la creencia popular es que el casco negro es más resistente. <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Perímetro Toráxico<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">La amplitud de su perímetro torácico fluctúa entre desde 1,62 hasta 1,82 metros.<br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Las Ancas<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Las ancas <strong>no</strong> son partidas y caídas, tiene una inserción baja de la cola y sumida entre las nalgas. <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Pechos<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Los presentan amplios y extremidades son cortas, idealmente igual distancia de piso a pecho que, de pecho a cruz, buscándose una rodilla y corvejón bajos, lo que incide en un paso más largo.<br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Colores<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Existen diversos colores en los caballos, en general se aceptan todos los pelajes, de preferencia tapados.<br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Caballos Albinos<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Los albinos totales o parciales están eliminados y queda prohibida su inscripción en el registro.<br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Piel<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">De piel gruesa, con crines abundantes y onduladas, y además con poca cerneja. <br>Debido al <strong>grueso de su piel, su doble pelaje</strong>, el que crece unos <strong>3 cm </strong>en invierno, el <strong>caballo chileno</strong> se adapta en los climas fríos, sobre todo en los de montaña.<br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Inteligencia y Fortaleza<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">El caballo chileno es de una inteligencia especial para el arreo.<br><br>De una incomparable mansedumbre, agilidad y una increíble valentía, atributo de resistencia cualquier esfuerzos y arremetida.<br><br>Todas estas cualidades quedaron demostradas en la <strong>Guerra del Pacífico</strong> (1879-1883), cuando las tropas chilenas cruzaron sobre caballos de esta raza el desierto de <strong>Atacama</strong> y posteriormente combatieron de forma victoriosa en las altas <strong>sierras</strong> de <strong>Perú.</strong><br><br>Al igual que el resto de las razas criollas de caballos, el caballo chileno es extremadamente rústico.<br><br>Su metabolismo es bajo,&nbsp; es muy sufrido, tiene buen sistema inmunitario y además cuenta con una gran capacidad de recuperación.<br> <br>Su jinete es el huaso, típico habitante rural de la zona central de Chile<br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Nuevos adeptos<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Los practicantes son rurales y muchos de las urbes así como <strong>argentinos</strong> que han adoptado el <strong>Rodeo</strong> como propio en zonas como de <strong>Cuyo y Buenos Aires</strong>, llegando a introducir reproductores chilenos para mejorar las funcionalidades y competir con ellos en rodeo, paleteadas y rienda con mucho éxito.<br><br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Sello de raza<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Desde <strong>1971</strong>, todos los <strong>Rodeos de Chile</strong> antes de comenzar la <strong>Serie de campeones o champion</strong>, los jinetes pasean sus caballos alrededor de la medialuna y un juez elige al <strong>«sello de raza»,</strong> el caballo que mejor representa el ideal del caballo chileno.<br><br>Los jinetes con sus caballos se forman alrededor de la medialuna, en<br>el centro se ubica el jurado que elige tres candidatos para que pasen al frente. <br><br>Luego el jurado los examina en forma rigurosa y elige al que represente en mejor forma la raza chilena de caballos.<br> <br>Este premio es muy importante para los criadores y dueños de caballos en general, puesto que un caballo será más apreciado si ha sido elegido <strong>«sello de raza»</strong> en algún rodeo. <br><br>Para ser elegido <strong>sello de raza,</strong> el caballo debe haber sido premiado en las series de clasificación del <strong>Rodeo</strong>, o sea, el caballo que funcionalmente ya es excepcional como condición previa a ser elegido <strong>sello de raza.</strong><br><br><br>El <strong>sello racial</strong> está preferentemente expresado en las características y perfiles del cráneo. <br><br>El carácter de acampamiento, fuerza vital, mirada, calidad de las crines (en longitud, densidad y grosor en la región del moño, gatillo y cola) y otros aires que sin influir mayormente en la anatomía y fisiología del animal, le dan carácter típico.<br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Criaderos<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Son establos donde nacen y se crían caballos.&nbsp; <br>En <strong>Chile</strong> existen más de <strong>siete mil</strong> incluyendo a pequeños criadores cuya producción de crías no supera un ejemplar anual. <br><br>El usos de estos equinos es para la práctica del rodeo destinados a la rienda internacional, paseos, trabajo de campo y arreos de ganado a la cordillera, entre otros.<br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Requisitos para Correr un Rodeo<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">La <strong>Federación Deportiva Nacional del Rodeo Chileno</strong>, agrupa a los jinetes&nbsp; a través de un club, que a su vez pertenece a una <strong>Asociación,</strong> la que agrupa a todos en esta esta Federación. <br><br>Los caballos en esta federación deben ser caballos inscritos en los registros genealógicos del caballo chileno de la SNA (Sociedad Nacional de Agricultura). <br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Protocolos de Inspección de un Caballo inscrito<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Es inimaginable para una persona que no conoce adentro a los huasos el recelo con la que resguardan la estirpe del Caballo Chileno. <br><br>Para reconocer e inscribir un caballo tiene muchos procedimientos que son:<br><br>Postulación del<strong> Potro</strong> y la <strong>yegua</strong> cuyo requisito fundamental es que ambos deben estar debidamente inscrito en los registros de la SNA.<br>Un inspector va a la caballería y reconoce a los dos animales para certificarlo.<br>Luego el inspector presencia la cruza del macho y hembra y la certifica.<br>A continuación, la yegua es inspeccionada en diversos meses por el oficial quien toquetea la yegua para sentir el feto en su vientre y hace un reporte de su evolución.<br>Cercana a parir la yegua, los inspectores quedan alertas y una vez ocurrido va el inspector en los días más próximos.<br>El reconocimiento y certificado de la pureza del animal se hace cuando el potrillo o potranca acude en forma natural a mamar a su madre y esta no lo rechaza.<br>Todos el trabajo de inspección es pagado.<br>&nbsp; <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Criaderos Destacados<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Los criaderos que han tenido más ejemplares campeones nacionales son:<br><strong>Santa Isabel</strong> y <br>el <strong>Santa Elba.</strong><br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Caballos destacados<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Numerosos caballos lograron títulos montados por destacados jinetes de los que cabe destacar:<br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Corrida en Vaca<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Potros: <br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Bellaco, El Huila, Estruendo, Malulo, Reservado, Rival, Taco y Talento <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Caballos: <br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Ángamos, Avispado y Tabacón. <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Yeguas:<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Guinda, Pelotera, Percala y Pichicucha. <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Movimiento a la Rienda<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Cachupín y Carretero. <br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>Sementales<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">El reproductor con mejores crías, en cuanto a campeonatos nacionales se refiere, es <strong>Estribillo</strong>,&nbsp; considerado el <strong>«mejor reproductor del siglo XX».</strong><br><br><br><br></span><span style="color:#0000FF;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:41px;"><strong>INTERNET<br></strong></span><span style="background-color:#FFFFFF;color:#222222;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;">Caballos Chilenos<br>https://www.pinterest.es/aabrigogajardo/caballos-chilenos/<br></span><span style="color:#000000;font-family:'Bahnschrift SemiCondensed';font-size:21px;line-height:25px;"><br><br></span><span style="color:#000000;font-family:Arial;font-size:13px;line-height:35px;"><br></span><span style="color:#0000CD;font-family:Arial;font-size:24px;line-height:35px;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </span><span style="color:#0000CD;font-family:'Brush Script MT';font-size:27px;line-height:35px;">Revista Chilena</span><span style="color:#0000CD;font-family:Arial;font-size:27px;line-height:35px;">.</span><span style="color:#0000CD;font-family:Arial;font-size:20px;line-height:35px;">com</span><span style="color:#000000;font-family:Arial;font-size:13px;line-height:16px;"><br><br><br></span></div>
+<div id="wb_Arte_ElementalShape2" style="position:absolute;left:10px;top:270px;width:380px;height:493px;z-index:17;">
+<img src="images/img2025.png" id="Arte_ElementalShape2" alt="" style="width:380px;height:493px;"></div>
+<div id="wb_Arte_ElementalImage2" style="position:absolute;left:22px;top:285px;width:355px;height:280px;z-index:18;">
+<img src="images/Caballo Chileno.png" id="Arte_ElementalImage2" alt=""></div>
+<div id="wb_FShape1" style="position:absolute;left:1110px;top:269px;width:590px;height:2174px;z-index:19;">
+<img src="images/img2026.png" id="FShape1" alt="" style="width:590px;height:2174px;"></div>
+<div id="wb_FPhotoGallery1" style="position:absolute;left:1119px;top:342px;width:572px;height:2102px;z-index:20;">
+<div id="FPhotoGallery1">
+   <div class="thumbnails">
+      <div class="thumbnail">
+         <a href="images/Caballo Morfologia 01a.jpg" data-rel=""><img alt="" src="images/Caballo Morfologia 01a.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col1"></div>
+      <div class="thumbnail">
+         <a href="images/Caballo Morfologia Casco 1.jpg" data-rel=""><img alt="" src="images/Caballo Morfologia Casco 1.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col1"></div>
+      <div class="thumbnail">
+         <a href="images/Caballo Morfologia Casco 2.jpg" data-rel=""><img alt="" src="images/Caballo Morfologia Casco 2.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col1"></div>
+      <div class="thumbnail">
+         <a href="images/Caballo Morfologia Casco 3.jpg" data-rel=""><img alt="" src="images/Caballo Morfologia Casco 3.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col1"></div>
+      <div class="thumbnail">
+         <a href="images/Caballo Morfologia Casco 4.jpg" data-rel=""><img alt="" src="images/Caballo Morfologia Casco 4.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col1"></div>
+   </div>
+</div></div>
+<div id="wb_Plantilla_1Image1" style="position:absolute;left:310px;top:10px;width:154px;height:139px;z-index:21;">
+<a href="./Parada-Militar-Kamila_Vega.html"><img src="images/Estrella-000.gif" id="Plantilla_1Image1" alt=""></a></div>
+<div id="wb_Plantilla_1Shape4" style="position:absolute;left:1110px;top:7195px;width:590px;height:3069px;z-index:22;">
+<img src="images/img2030.png" id="Plantilla_1Shape4" alt="" style="width:590px;height:3069px;"></div>
+<div id="wb_Plantilla_1YouTube1" style="position:absolute;left:1123px;top:8258px;width:565px;height:317px;z-index:23;">
+<iframe id="Plantilla_1YouTube1" src="https://www.youtube.com/embed/rdcllaCA0lw?rel=0&amp;modestbranding=1&amp;showinfo=0&amp;ap=%2526fmt%3D18&amp;autohide=0&amp;fs=1" allowfullscreen></iframe>
+</div>
+<div id="wb_Shape7" style="position:absolute;left:1110px;top:2535px;width:590px;height:1404px;z-index:24;">
+<img src="images/img2048.png" id="Shape7" alt="" style="width:590px;height:1404px;"></div>
+<div id="wb_PhotoGallery1" style="position:absolute;left:1116px;top:2655px;width:572px;height:1273px;z-index:25;">
+<div id="PhotoGallery1">
+   <div class="thumbnails">
+      <div class="thumbnail">
+         <a href="images/A caballo - Pedro de Valdivia.jpg" data-rel="" title="don Pedro de Valdivia"><img alt="don Pedro de Valdivia" src="images/A caballo - Pedro de Valdivia.jpg" title="don Pedro de Valdivia"></a>
+<div class="caption">don Pedro de Valdivia<div class="description">Quien trajo los caballos.</div>
+</div>
+      </div>
+      <div class="thumbnail">
+         <a href="images/A Caballo Garcia Hurtado de Mendoza.jpg" data-rel="" title="Garcia Hurtado de Mendoza"><img alt="Garcia Hurtado de Mendoza" src="images/A Caballo Garcia Hurtado de Mendoza.jpg" title="Garcia Hurtado de Mendoza"></a>
+<div class="caption">Garcia Hurtado de Mendoza<div class="description">Quien les di&#243; adiestramiento y estilo.</div>
+</div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+      <div class="thumbnail">
+         <a href="images/A Caballo Lautaro.jpg" data-rel="" title="Lautaro"><img alt="Lautaro" src="images/A Caballo Lautaro.jpg" title="Lautaro"></a>
+<div class="caption">Lautaro<div class="description">Quien adopta el caballo</div>
+</div>
+      </div>
+      <div class="thumbnail">
+         <a href="images/a Caballo Alonso de Monroy.png" data-rel="" title="Alonso de Monroy"><img alt="Alonso de Monroy" src="images/a Caballo Alonso de Monroy.png" title="Alonso de Monroy"></a>
+<div class="caption">Alonso de Monroy<div class="description">Quien masifica el caballo</div>
+</div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+      <div class="thumbnail">
+         <a href="images/A caball - Sacerdote Rodrigo Gonzalez Marmolejo.jpg" data-rel="" title="Sacerdote Rodrigo Gonzalez Marmolejo"><img alt="Sacerdote Rodrigo Gonzalez Marmolejo" src="images/A caball - Sacerdote Rodrigo Gonzalez Marmolejo.jpg" title="Sacerdote Rodrigo Gonzalez Marmolejo"></a>
+<div class="caption">Sacerdote Rodrigo Gonzalez Marmolejo<div class="description">Quien los cr&#237;a con una l&#243;gica de raza.</div>
+</div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+   </div>
+</div></div>
+<div id="wb_Shape8" style="position:absolute;left:1110px;top:3979px;width:590px;height:1187px;z-index:26;">
+<img src="images/img2049.png" id="Shape8" alt="" style="width:590px;height:1187px;"></div>
+<div id="wb_PhotoGallery2" style="position:absolute;left:1119px;top:4050px;width:572px;height:1116px;z-index:27;">
+<div id="PhotoGallery2">
+   <div class="thumbnails">
+      <div class="thumbnail">
+         <a href="images/Caballo Chileno 02.jpg" data-rel=""><img alt="" src="images/Caballo Chileno 02.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="thumbnail">
+         <a href="Caballo Chileno 03.jpeg" data-rel=""><img alt="" src="Caballo Chileno 03.jpeg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+      <div class="thumbnail">
+         <a href="images/Caballo Chileno 04.jpg" data-rel=""><img alt="" src="images/Caballo Chileno 04.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="thumbnail">
+         <a href="images/Caballo Chileno 05.jpg" data-rel=""><img alt="" src="images/Caballo Chileno 05.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+      <div class="thumbnail">
+         <a href="images/Caballo Chileno 06.jpg" data-rel=""><img alt="" src="images/Caballo Chileno 06.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="thumbnail">
+         <a href="images/Caballo Chileno 07.jpg" data-rel=""><img alt="" src="images/Caballo Chileno 07.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+      <div class="thumbnail">
+         <a href="images/Caballo Chileno 11.jpg" data-rel=""><img alt="" src="images/Caballo Chileno 11.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="thumbnail">
+         <a href="images/Caballo Chileno 12.jpg" data-rel=""><img alt="" src="images/Caballo Chileno 12.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+      <div class="thumbnail">
+         <a href="images/Caballo Chileno 10.jpg" data-rel=""><img alt="" src="images/Caballo Chileno 10.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+   </div>
+</div></div>
+<div id="wb_Shape9" style="position:absolute;left:1110px;top:5226px;width:590px;height:1550px;z-index:28;">
+<img src="images/img2050.png" id="Shape9" alt="" style="width:590px;height:1550px;"></div>
+<div id="wb_PhotoGallery3" style="position:absolute;left:1119px;top:5297px;width:572px;height:1479px;z-index:29;">
+<div id="PhotoGallery3">
+   <div class="thumbnails">
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 00a.jpg" data-rel=""><img alt="" src="images/Sello de Raza 00a.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 00b.jpg" data-rel=""><img alt="" src="images/Sello de Raza 00b.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 00c.jpg" data-rel=""><img alt="" src="images/Sello de Raza 00c.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 02.png" data-rel=""><img alt="" src="images/Sello de Raza 02.png"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 04.png" data-rel=""><img alt="" src="images/Sello de Raza 04.png"></a>
+<div class="caption"></div>
+      </div>
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 05.jpg" data-rel=""><img alt="" src="images/Sello de Raza 05.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 06.jpg" data-rel=""><img alt="" src="images/Sello de Raza 06.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 07.jpg" data-rel=""><img alt="" src="images/Sello de Raza 07.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 08.png" data-rel=""><img alt="" src="images/Sello de Raza 08.png"></a>
+<div class="caption"></div>
+      </div>
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 09.png" data-rel=""><img alt="" src="images/Sello de Raza 09.png"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 10.jpg" data-rel=""><img alt="" src="images/Sello de Raza 10.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 12.jpg" data-rel=""><img alt="" src="images/Sello de Raza 12.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+      <div class="thumbnail">
+         <a href="images/Sello de Raza 11.jpg" data-rel=""><img alt="" src="images/Sello de Raza 11.jpg"></a>
+<div class="caption"></div>
+      </div>
+      <div class="clearfix visible-col2"></div>
+   </div>
+</div></div>
+<div id="wb_YouTube1" style="position:absolute;left:1123px;top:8592px;width:565px;height:317px;z-index:30;">
+<iframe id="YouTube1" src="https://www.youtube.com/embed/qC_p9YgzwII?rel=0&amp;modestbranding=1&amp;showinfo=0&amp;ap=%2526fmt%3D18&amp;autohide=0&amp;fs=1" allowfullscreen></iframe>
+</div>
+<div id="wb_YouTube2" style="position:absolute;left:1123px;top:8924px;width:565px;height:317px;z-index:31;">
+<iframe id="YouTube2" src="https://www.youtube.com/embed/oD5PgdpMBUs?rel=0&amp;modestbranding=1&amp;showinfo=0&amp;ap=%2526fmt%3D18&amp;autohide=0&amp;fs=1" allowfullscreen></iframe>
+</div>
+<div id="wb_YouTube3" style="position:absolute;left:1123px;top:9257px;width:565px;height:317px;z-index:32;">
+<iframe id="YouTube3" src="https://www.youtube.com/embed/k1g8GsyZu6g?rel=0&amp;modestbranding=1&amp;showinfo=0&amp;ap=%2526fmt%3D18&amp;autohide=0&amp;fs=1" allowfullscreen></iframe>
+</div>
+<div id="wb_YouTube4" style="position:absolute;left:1123px;top:9591px;width:565px;height:317px;z-index:33;">
+<iframe id="YouTube4" src="https://www.youtube.com/embed/syk25Dh2Hj4?rel=0&amp;modestbranding=1&amp;showinfo=0&amp;ap=%2526fmt%3D18&amp;autohide=0&amp;fs=1" allowfullscreen></iframe>
+</div>
+<div id="wb_YouTube5" style="position:absolute;left:1123px;top:9923px;width:565px;height:317px;z-index:34;">
+<iframe id="YouTube5" src="https://www.youtube.com/embed/7niKDC3un18?rel=0&amp;modestbranding=1&amp;showinfo=0&amp;ap=%2526fmt%3D18&amp;autohide=0&amp;fs=1" allowfullscreen></iframe>
+</div>
+<div id="wb_YouTube6" style="position:absolute;left:1123px;top:7925px;width:565px;height:317px;z-index:35;">
+<iframe id="YouTube6" src="https://www.youtube.com/embed/C1G8023eutc?rel=0&amp;modestbranding=1&amp;showinfo=0&amp;ap=%2526fmt%3D18&amp;autohide=0&amp;fs=1" allowfullscreen></iframe>
+</div>
+<div id="wb_YouTube7" style="position:absolute;left:1123px;top:7263px;width:565px;height:317px;z-index:36;">
+<iframe id="YouTube7" src="https://www.youtube.com/embed/MNORvCdZ02U?rel=0&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;ap=%2526fmt%3D18&amp;autohide=0&amp;fs=1" allowfullscreen></iframe>
+</div>
+<div id="wb_YouTube8" style="position:absolute;left:1123px;top:7594px;width:565px;height:317px;z-index:37;">
+<iframe id="YouTube8" src="https://www.youtube.com/embed/R5OknrAlXPo?rel=0&amp;modestbranding=1&amp;showinfo=0&amp;ap=%2526fmt%3D18&amp;autohide=0&amp;fs=1" allowfullscreen></iframe>
+</div>
+<div id="wb_Shape18" style="position:absolute;left:401px;top:270px;width:700px;height:90px;z-index:38;">
+<img src="images/img2063.png" id="Shape18" alt="" style="width:700px;height:90px;"></div>
+<div id="wb_Image2" style="position:absolute;left:5px;top:12845px;width:1700px;height:240px;z-index:39;">
+<img src="images/Barra Presentacion 03.gif" id="Image2" alt=""></div>
+
+
+
+<div id="Layer1" style="position:absolute;text-align:left;left:1322px;top:13008px;width:64px;height:59px;z-index:43;">
+<div id="wb_IconFont1" style="position:absolute;left:10px;top:7px;width:45px;height:47px;text-align:center;z-index:1;">
+<a href="#Top"><div id="IconFont1"><i class="material-icons">&#xe5d8;</i></div></a></div>
+</div>
+<div id="wb_Inicio" style="position:absolute;left:1652px;top:216px;width:45px;height:45px;z-index:44;">
+<a id="Inicio" style="visibility:hidden;">&nbsp;</a>
+</div>
+<div id="wb_Shape19" style="position:absolute;left:788px;top:213px;width:311px;height:49px;z-index:45;">
+<a href="./RODEO.html"><img src="images/img2064.png" id="Shape19" alt="" style="width:311px;height:49px;"></a></div>
+<div id="wb_Arte_PresentacionShape3" style="position:absolute;left:402px;top:213px;width:311px;height:49px;z-index:46;">
+<a href="./index.html"><img src="images/img2066.png" id="Arte_PresentacionShape3" alt="" style="width:311px;height:49px;"></a></div>
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b5c98b42d335caf"></script><!-- Go to www.addthis.com/dashboard to customize your tools --> <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b5c98b42d335caf"></script></body>
+</html>
